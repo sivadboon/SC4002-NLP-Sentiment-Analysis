@@ -1,8 +1,7 @@
-SC4002 NLP Sentiment Analysis
+**SC4002 NLP Sentiment Analysis**
 Natural Language Processing Project - Nanyang Technological University
 
-Members
-
+**Members**
 Isaiah Loh Kai En (U2140496L)
 Li Zihan (U2121598G)
 Lye En Lih (U2121387B)
@@ -12,10 +11,10 @@ Zhang Jing Wen (U2121853G)
 
 This project explores various deep learning architectures for sentiment analysis, optimizing word embeddings and RNN-based models to improve classification accuracy.
 
-Overview
+**Overview**
 This project implements word embeddings (GloVe, FastText) and deep learning models (RNN, BiLSTM, CNN, Attention) to classify sentiment in movie reviews. The models are benchmarked on test accuracy, with the best-performing architecture achieving 81.05% accuracy using a BiLSTM + BERT + Attention model.
 
-Features
+**Features**
 Preprocessing: Tokenization, lemmatization, and handling out-of-vocabulary (OOV) words using FastText.
 Word Embeddings: Comparison of GloVe and FastText embeddings for feature representation.
 Deep Learning Models:
